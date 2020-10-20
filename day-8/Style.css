@@ -1,0 +1,103 @@
+
+.header{
+    font-size: 100px;
+    text-align: center;
+    margin:20px;
+    position:-webkit-sticky;
+}
+.head{
+    font-size:15px;
+    text-align: center;
+    margin-top: 1px;
+    border-bottom:1px solid;
+    padding:2px;
+}
+.head1{
+    font-size:25px;
+    padding:5px;
+    width:100%;
+    float:left;
+}
+.para1{
+    float: left;
+    text-align: left;
+    padding:5px 5px 5px 5px;
+    font-size:12px;
+    width:20%;   
+}
+.para2{
+    float: left;
+    text-align: left;
+    padding:5px 5px 5px 5px;
+    font-size:12px;
+    width:20%;
+}
+.kia{
+    float: left;
+    width:50%;
+    
+}
+.kiahead{
+    width:50%;
+    float: right;
+    
+    font-size: 25px;
+}
+.kiahead2{
+    width:50%;
+    float: right;
+    
+    font-size: 12px;
+}
+.amazon{
+    float:left;
+    width: 80%;
+    margin-top: 15px;
+}
+.amazonshop{
+    width:15%;
+    margin-top:15px;
+    font-size: 12px;
+    float: right;
+}
+.sports{
+    float: left;
+    text-align: left;
+    padding:5px 5px 5px 5px;
+    font-size:12px;
+    width:60%;
+}
+.neet{
+    float: left;
+    text-align: left;
+    padding:5px 5px 5px 5px;
+    font-size:12px;
+    width:100%;
+}
+.corona{
+    font-size:18px;
+    padding:5px;
+    width:100%;
+    float:left;
+}
+.corona1{
+    float: right;
+    text-align:right;
+    padding:5px 5px 5px 5px;
+    font-size:12px;
+    width:40%; 
+}
+.lrs{
+    float: left;
+    text-align: left;
+    padding:5px 5px 5px 5px;
+    font-size:12px;
+    width:50%; 
+    margin-top: 10px;
+}
+.lrs1{
+    font-size:18px;
+    padding:5px;
+    width:100%;
+    float:left;
+}
